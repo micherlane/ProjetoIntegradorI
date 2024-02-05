@@ -74,6 +74,4 @@ Documentação disponível em: <a href="https://app.swaggerhub.com/apis/enalrehc
 ## Descrição dos casos de usos
 https://docs.google.com/document/d/1SUDMO9xvfpWyVF531uqvRyMgw5HADC12olQCG5EqCC4/edit?usp=drivesdk
 ## Membros da equipe:
-    - Juliana Lima;
-    - Kastier Junior;
     - Micherlane Rodrigues.
